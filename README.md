@@ -15,3 +15,5 @@ swfrender.exe(swf转img的服务，提取于swftools)
 swfstrings.exe(swf获取文字的服务，提取于swftools)
 
 有问题的可以留言，支持的文库可以后续增加。。。
+
+准备增加pdf转word功能。不过建议还是使用专用的pdf编辑工具。
